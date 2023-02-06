@@ -7,17 +7,15 @@ p {
 }
 a {
   color: green;
+  margin: 0 10px;
 }
 img {
   display: block;
   margin: 30px auto;
   border-radius: 10px;
 }
-.links {
+footer {
   text-align: center;
-}
-.links a {
-  margin-right: 18px;
 }
 #email {
   color: blue;
